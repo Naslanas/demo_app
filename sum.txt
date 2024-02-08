@@ -1,4 +1,10 @@
 a=100
 b=8
-c=a+b
-print(c)
+sum=a+b
+sub=a-b
+quo=a/b
+rem=a%b
+print(sum)
+print(sub)
+print(quo)
+print(rem)
